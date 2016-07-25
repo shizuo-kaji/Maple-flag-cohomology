@@ -22,7 +22,7 @@ and place in the same directory as the script file.
 * BGG_graph_example.mws: Example for drawing GKM-graph for G/P
 
 ### Maple scripts
-** BGG.mpl: module for ordinary cohomology (optimised for exceptional types)
-** BGGT.mpl: module for equivariant cohomology
-** WeylOps.mpl: module for Weyl group manipulation
-** BGG_graph.mpl: module for drawing GKM-graph
+* BGG.mpl: module for ordinary cohomology (optimised for exceptional types)
+* BGGT.mpl: module for equivariant cohomology
+* WeylOps.mpl: module for Weyl group manipulation
+* BGG_graph.mpl: module for drawing GKM-graph
